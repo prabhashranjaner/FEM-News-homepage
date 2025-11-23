@@ -14,9 +14,9 @@ const HeroSection = () => {
         <picture>
           <source
             media="(min-width:786px)"
-            srcSet="/public/images/image-web-3-desktop.jpg"
+            srcSet="/images/image-web-3-desktop.jpg"
           ></source>
-          <img alt="hero" src="/public/images/image-web-3-mobile.jpg" />
+          <img alt="hero" src="/images/image-web-3-mobile.jpg" />
         </picture>
       </ImageWrapper>
 

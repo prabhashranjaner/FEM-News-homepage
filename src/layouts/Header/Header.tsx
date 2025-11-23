@@ -11,7 +11,7 @@ const Header = ({ setIsMenuActive }: PropsType) => {
   return (
     <HeaderElStyle>
       <LogoWrapperStyle>
-        <img alt="logo" src="/public/images/logo.svg" />
+        <img alt="logo" src="/images/logo.svg" />
       </LogoWrapperStyle>
 
       <NavListWrapperStyle>
@@ -21,7 +21,7 @@ const Header = ({ setIsMenuActive }: PropsType) => {
       <MenuIconWrapperStyle>
         <img
           alt="hamburger"
-          src="/public/images/icon-menu.svg"
+          src="/images/icon-menu.svg"
           onClick={() => setIsMenuActive(true)}
         />
       </MenuIconWrapperStyle>

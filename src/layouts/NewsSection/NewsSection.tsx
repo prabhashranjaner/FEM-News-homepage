@@ -32,7 +32,7 @@ const NewsSection = () => {
 
       <NewsBlockStyle>
         <ImageWrapper>
-          <img src="/public/images/image-gaming-growth.jpg" alt="growth" />
+          <img src="/images/image-gaming-growth.jpg" alt="growth" />
         </ImageWrapper>
         <ContentBlockStyle>
           <h3>03</h3>
